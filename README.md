@@ -1,2 +1,2 @@
 # Website-Checker
-A website checker which works continuously, using go routines and channels. 
+A website checker that works continuously, using go routines and channels. 
